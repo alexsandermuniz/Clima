@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Clima</string>
+    <string name="column_city">Cidade</string>
+    <string name="column_weather">Clima</string>
+    <string name="column_temp">Temperatura</string>
+    <string name="details">Detalhes</string>
+    <string name="select_city">Selecione a cidade</string>
+    <string name="temp_min">Temperatura mínima</string>
+    <string name="temp_max">Temperatura máxima</string>
+    <string name="wait">Aguarde</string>
+    <string name="empty_favorites">Nenhuma cidade em favoritos. Utilize a lupa acima para pesquisar.</string>
+    <string name="no_connection">Falha de conexão. Verifique sua conexão com a internet.</string>
+
+
+
+</resources>

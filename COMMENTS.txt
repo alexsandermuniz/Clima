@@ -1,0 +1,22 @@
+1 - Arquitetura utilizada: MVC.
+A arquitetura que mais tenho costume e conhecimento é a arquitetura MVC, que é de fácil implementação em android uma vez que 
+as Activities já fazem o papel de Controlador, as Views são os layouts e os Modelos são as classes de objetos utilizados.
+Apesar de oferecer uma organização em camadas, possui várias deficiências sendo a principal o alto acoplamento entre as Views e os Modelos.
+
+2 - Bibliotecas utilizadas:
+  * async-http:1.4.9 = Utilizada para fazer a comunicação com a API permitindo realizar um HTTP post assíncrono com os parâmetros necessários 
+  para as requisições da aplicação.
+  * gson:2.8.1 = Biblioteca que permite a encodificação e decodificação JSON. Foi utilizada no projeto para fazer a decodificação do arquivo JSON da lista
+  de cidades, sendo necessário criar classes para cada objeto JSON. Não foi utilizada para o recebimento dos resultados da API porque para acessar
+  apenas alguns campos do objeto JSON é mais simples utilizar a classe JSONObject.
+  
+3 - Poderia melhorar a arquitetura, tendo um tempo para estudar outras arquiteturas existentes que estão sendo muito utilizadas 
+	atualmente como MVP e MVVM.
+	Poderia melhorar o visual do aplicativo inserindo mais imagens e interações com o usuário.
+
+4 - Acredito que abordei todos os pontos e realizei o design do aplicativo com base nas telas descritas.
+
+OBS: A tela inicial não faz acesso à API, somente a tela de detalhes. A tela inicial apenas recupera os dados do banco de dados como solicitado.
+  
+  
+
