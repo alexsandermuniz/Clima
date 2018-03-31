@@ -12,7 +12,7 @@ Apesar de oferecer uma organização em camadas, possui várias deficiências se
   
 3 - Poderia melhorar a arquitetura, tendo um tempo para estudar outras arquiteturas existentes que estão sendo muito utilizadas 
 	atualmente como MVP e MVVM.
-	Poderia melhorar o visual do aplicativo inserindo mais imagens e interações com o usuário.
+	Poderia melhorar o visual do aplicativo inserindo mais imagens e interações com o usuário aplicando material design.
 
 4 - Acredito que abordei todos os pontos e realizei o design do aplicativo com base nas telas descritas.
 
