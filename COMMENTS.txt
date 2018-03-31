@@ -6,7 +6,7 @@ Apesar de oferecer uma organização em camadas, possui várias deficiências se
 2 - Bibliotecas utilizadas:
   * async-http:1.4.9 = Utilizada para fazer a comunicação com a API permitindo realizar um HTTP post assíncrono com os parâmetros necessários 
   para as requisições da aplicação.
-  * gson:2.8.1 = Biblioteca que permite a encodificação e decodificação JSON. Foi utilizada no projeto para fazer a decodificação do arquivo JSON da lista
+  * gson:2.8.1 = Biblioteca que permite a codificação e decodificação JSON. Foi utilizada no projeto para fazer a decodificação do arquivo JSON da lista
   de cidades, sendo necessário criar classes para cada objeto JSON. Não foi utilizada para o recebimento dos resultados da API porque para acessar
   apenas alguns campos do objeto JSON é mais simples utilizar a classe JSONObject.
   
